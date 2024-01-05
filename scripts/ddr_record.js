@@ -73,7 +73,7 @@ async function play(){
 async function start(){
     while (true){
         if (loaded){
-            new Message("raise hands to play");
+            new Message("Levanta los 2 brazos para empezar");
         }
         if (gesture == "up"){
             play();

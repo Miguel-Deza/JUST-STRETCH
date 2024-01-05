@@ -40,6 +40,10 @@ function selectSong(song){
     }
 }
 
+function refresh(){
+    location.reload();
+}
+
 function reset(){
     // selectElem.style.display = "block";
     selectElem.style.top = "50%";

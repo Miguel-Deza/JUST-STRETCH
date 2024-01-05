@@ -4,7 +4,7 @@ body {
 	margin: 0;
 	padding: 0;
 	height: 100%;
-	background-color: #0e2731;
+	background-image: url("./assets/wallpapers.png");
 	overflow: hidden;
 	font-family: "Cascadia Code", "Trebuchet MS", Futura, monospace;
 }
@@ -17,13 +17,7 @@ body {
 	place-items: center;
 }
 
-#left_container {
-	width: 100%;
-	position: relative;
-	box-sizing: border-box;
-	padding: 40px;
-	overflow-y: auto;
-}
+
 
 /* VIDEO */
 
@@ -114,7 +108,7 @@ body {
 /* MISC */
 
 #logo {
-	width: 100%;
+	width: 60%;
 }
 
 #songname {
@@ -132,7 +126,7 @@ body {
 /* TEXT */
 
 h1 {
-	font-size: 30pt;
+	font-size: 5rem;
 	color: #1683c2;
 }
 
