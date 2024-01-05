@@ -11,11 +11,9 @@ let audio = new Audio("songs/background.mp3");
 
 let songs = {
     "Airship Serenity":[track_airship,"songs/airship.mp3"],
-    "Living Voyage":[track_voyage,"songs/living-voyage.mp3"],
-    "The Builder":[track_builder,"songs/the-builder.mp3"],
+    
     "Voxel Revolution":[track_voxel,"songs/voxel-revolution.mp3"],
     "Cold Funk":[track_cold,"songs/cold-funk.mp3"],
-    "Maple Leaf Rag":[track_maple,"songs/maple-leaf-rag.mp3"],
     "Welcome to the Show":[track_welcome,"songs/welcome-to-the-show.mp3"],
     "Desert of Lost Souls":[track_desert,"songs/desert-of-lost-souls.mp3"]
 }
